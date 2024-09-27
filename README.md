@@ -1,5 +1,5 @@
-<H3>Name: AFSAR JUMAIL S </H3>
-<H3>Register no: 212222240004</H3>
+<H3>Name: Jeyabalan T </H3>
+<H3>Register no: 212222240040</H3>
 <H3>Date: 13.09.2024</H3>
 
 # Ex 02 - Implementation of Perceptron for Binary Classification
